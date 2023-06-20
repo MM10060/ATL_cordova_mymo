@@ -1,0 +1,4 @@
+// GENERATED FILE - DO NOT EDIT
+include ":", ':mymolib', ':MyMoLibrary'
+include ":CordovaLib"
+include ":app"

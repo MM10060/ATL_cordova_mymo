@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="artifacts:mymolib">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/mymo.aar/9976c094ea13a4fa7f42b6886631fac4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/mymo.aar/9976c094ea13a4fa7f42b6886631fac4/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

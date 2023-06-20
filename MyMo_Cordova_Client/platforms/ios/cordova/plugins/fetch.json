@@ -1,0 +1,10 @@
+{
+  "com.idmission.mymo.plugin": {
+    "source": {
+      "type": "local",
+      "path": "/Users/mcb-air-036/Movies/MyMo_Cordova/MyMo_Cordova_Client/platforms/ios/node_modules/com.idmission.mymo.plugin"
+    },
+    "is_top_level": true,
+    "variables": {}
+  }
+}

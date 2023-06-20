@@ -1,0 +1,75 @@
+
+/* Class = "UILabel"; text = "Receiver Name"; ObjectID = "1u6-UF-zZt"; */
+"1u6-UF-zZt.text" = "Nombre Del Destinatario";
+
+/* Class = "UILabel"; text = "+91 9090989890"; ObjectID = "3rv-iJ-rrH"; */
+"3rv-iJ-rrH.text" = "+91 9090989890";
+
+/* Class = "UILabel"; text = "Created On"; ObjectID = "5Ns-jF-Kuq"; */
+"5Ns-jF-Kuq.text" = "Creado el";
+
+/* Class = "UILabel"; text = "Transaction Status"; ObjectID = "7K6-sR-XqU"; */
+"7K6-sR-XqU.text" = "Estado de la transacción";
+
+/* Class = "UILabel"; text = "05/05/2020 12:30:00"; ObjectID = "8dV-dX-j5s"; */
+"8dV-dX-j5s.text" = "05/05/2020 12:30:00";
+
+/* Class = "UILabel"; text = "Transaction ID"; ObjectID = "Biv-xf-N4x"; */
+"Biv-xf-N4x.text" = "ID de transacción";
+
+/* Class = "UILabel"; text = "Updated On"; ObjectID = "BxZ-5K-ktb"; */
+"BxZ-5K-ktb.text" = "Fecha última actualización";
+
+/* Class = "UILabel"; text = "Transaction Type"; ObjectID = "DjS-Of-X22"; */
+"DjS-Of-X22.text" = "Tipo de transacción";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "GCg-Qp-nHg"; */
+"GCg-Qp-nHg.text" = "-";
+
+/* Class = "UILabel"; text = "Pending"; ObjectID = "IyC-5U-66H"; */
+"IyC-5U-66H.text" = "Pending";
+
+/* Class = "UILabel"; text = "05/05/2020 12:30:00"; ObjectID = "MGu-Zd-ebB"; */
+"MGu-Zd-ebB.text" = "05/05/2020 12:30:00";
+
+/* Class = "UIButton"; normalTitle = "NO"; ObjectID = "PVC-iz-5KR"; */
+"PVC-iz-5KR.normalTitle" = "No";
+
+/* Class = "UIButton"; normalTitle = "Select Date"; ObjectID = "XGp-LJ-AeX"; */
+"XGp-LJ-AeX.normalTitle" = "Seleccione Fecha";
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "XsV-t0-68D"; */
+"XsV-t0-68D.normalTitle" = "Cerrar";
+
+/* Class = "UIButton"; normalTitle = "Load More..."; ObjectID = "bD1-ma-fOQ"; */
+"bD1-ma-fOQ.normalTitle" = "Cargar más...";
+
+/* Class = "UILabel"; text = "$200"; ObjectID = "bgs-HU-d2a"; */
+"bgs-HU-d2a.text" = "$200";
+
+/* Class = "UILabel"; text = "Transfer"; ObjectID = "cLj-il-AOo"; */
+"cLj-il-AOo.text" = "Transferir";
+
+/* Class = "UIButton"; normalTitle = "Cancel Transaction"; ObjectID = "cxB-2Z-Dv6"; */
+"cxB-2Z-Dv6.normalTitle" = "   Cancelar transacción";
+
+/* Class = "UILabel"; text = "Receiver Phone No"; ObjectID = "gOU-YT-GAg"; */
+"gOU-YT-GAg.text" = "Teléfono receptor";
+
+/* Class = "UILabel"; text = "Are your sure you want to cancel the transaction?"; ObjectID = "iCs-Co-3DC"; */
+"iCs-Co-3DC.text" = "¿Está seguro de que desea cancelar la transacción?";
+
+/* Class = "UILabel"; text = "Cancel Transaction"; ObjectID = "o94-mv-88x"; */
+"o94-mv-88x.text" = "Cancelar transacción";
+
+/* Class = "UIButton"; normalTitle = "YES"; ObjectID = "qSb-mM-IMX"; */
+"qSb-mM-IMX.normalTitle" = "Si";
+
+/* Class = "UILabel"; text = "Transaction Amount"; ObjectID = "r9U-4F-iAy"; */
+"r9U-4F-iAy.text" = "Cantidad de transacción";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "uow-yC-QRd"; */
+"uow-yC-QRd.normalTitle" = "Cancelar";
+
+/* Class = "UIButton"; normalTitle = "Select Date"; ObjectID = "ys6-cg-Jgz"; */
+"ys6-cg-Jgz.normalTitle" = "Seleccione Fecha";

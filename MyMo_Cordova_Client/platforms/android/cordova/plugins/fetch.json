@@ -1,0 +1,10 @@
+{
+  "com.idmission.mymo.plugin": {
+    "source": {
+      "type": "local",
+      "path": "E:\\Projects\\AndroidApps\\mymo\\tags\\CorDovaMyMo\\MyMo_Cordova_Client\\platforms\\android\\node_modules\\com.idmission.mymo.plugin"
+    },
+    "is_top_level": true,
+    "variables": {}
+  }
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CordovaLib/CordovaLib.iml" filepath="$PROJECT_DIR$/CordovaLib/CordovaLib.iml" group="android/CordovaLib" />
+      <module fileurl="file://$PROJECT_DIR$/MyMoLibrary/MyMoLibrary.iml" filepath="$PROJECT_DIR$/MyMoLibrary/MyMoLibrary.iml" group="android/MyMoLibrary" />
+      <module fileurl="file://$PROJECT_DIR$/mymolib/MyMo_Cordova_Client-platforms-android-mymolib.iml" filepath="$PROJECT_DIR$/mymolib/MyMo_Cordova_Client-platforms-android-mymolib.iml" group="android/mymolib" />
+      <module fileurl="file://$PROJECT_DIR$/mymolib/MyMo_Cordova_Client-platforms-android-mymolib~1.iml" filepath="$PROJECT_DIR$/mymolib/MyMo_Cordova_Client-platforms-android-mymolib~1.iml" group="android/mymolib" />
+      <module fileurl="file://$PROJECT_DIR$/mymolib/MyMo_Cordova_Client-platforms-android-mymolib~2.iml" filepath="$PROJECT_DIR$/mymolib/MyMo_Cordova_Client-platforms-android-mymolib~2.iml" group="android/mymolib" />
+      <module fileurl="file://$PROJECT_DIR$/android.iml" filepath="$PROJECT_DIR$/android.iml" group="android" />
+      <module fileurl="file://$PROJECT_DIR$/mymolib/android-mymolib.iml" filepath="$PROJECT_DIR$/mymolib/android-mymolib.iml" group="android/mymolib" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="android/app" />
+      <module fileurl="file://$PROJECT_DIR$/mymolib/mymolib.iml" filepath="$PROJECT_DIR$/mymolib/mymolib.iml" group="android/mymolib" />
+      <module fileurl="file://$PROJECT_DIR$/mymolib/platforms-android-mymolib.iml" filepath="$PROJECT_DIR$/mymolib/platforms-android-mymolib.iml" group="android/mymolib" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<plugin id="com.idmission.mymo.plugin" version="0.0.1" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
+	<name>MyMo_Cordova_Plugin</name>
+	<js-module name="MyMo_Cordova_Plugin" src="www/MyMo_Cordova_Plugin.js">
+		<clobbers target="cordova.plugins.MyMo_Cordova_Plugin"/>
+	</js-module>
+	<platform name="android">
+		<config-file parent="/*" target="res/xml/config.xml">
+			<feature name="MyMo_Cordova_Plugin">
+				<param name="android-package" value="com.idmission.mymo.plugin.MyMo_Cordova_Plugin"/>
+			</feature>
+		</config-file>
+		<config-file parent="/*" target="AndroidManifest.xml"/>
+		<source-file src="src/android/MyMo_Cordova_Plugin.java" target-dir="src/com/idmission/mymo/plugin/MyMo_Cordova_Plugin"/>
+	</platform>
+	<platform name="ios">
+		<config-file parent="/*" target="config.xml">
+			<feature name="MyMo_Cordova_Plugin">
+				<param name="ios-package" value="MyMo_Cordova_Plugin"/>
+			</feature>
+		</config-file>
+		<source-file src="src/ios/MyMo_Cordova_Plugin.m"/>
+	</platform>
+</plugin>

@@ -1,0 +1,43 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {
+      "config.xml": {
+        "parents": {
+          "/*": [
+            {
+              "xml": "<feature name=\"MyMo_Cordova_Plugin\"><param name=\"ios-package\" value=\"MyMo_Cordova_Plugin\" /></feature>",
+              "count": 1
+            }
+          ]
+        }
+      }
+    }
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "$(PRODUCT_BUNDLE_IDENTIFIER)"
+    },
+    "com.idmission.mymo.plugin": {
+      "PACKAGE_NAME": "$(PRODUCT_BUNDLE_IDENTIFIER)"
+    }
+  },
+  "dependent_plugins": {},
+  "modules": [
+    {
+      "id": "com.idmission.mymo.plugin.MyMo_Cordova_Plugin",
+      "file": "plugins/com.idmission.mymo.plugin/www/MyMo_Cordova_Plugin.js",
+      "pluginId": "com.idmission.mymo.plugin",
+      "clobbers": [
+        "cordova.plugins.MyMo_Cordova_Plugin"
+      ]
+    }
+  ],
+  "plugin_metadata": {
+    "cordova-plugin-whitelist": "1.3.4",
+    "com.idmission.mymo.plugin": "0.0.1"
+  }
+}

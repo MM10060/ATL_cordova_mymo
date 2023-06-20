@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "Pick Contact Number"; ObjectID = "9n0-js-j6U"; */
+"9n0-js-j6U.text" = "Elegir número de contacto";
+
+/* Class = "UILabel"; text = "Contacts";Elegir número de contacto ObjectID = "VPC-Cs-hnk"; */
+"VPC-Cs-hnk.text" = "Contactos";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "Vqp-EY-FGt"; */
+"Vqp-EY-FGt.normalTitle" = "Cancelar";
+
+/* Class = "UIButton"; normalTitle = "Refresh"; ObjectID = "mVR-QY-0l6"; */
+"mVR-QY-0l6.normalTitle" = "Actualizar";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "sbF-r4-pYi"; */
+"sbF-r4-pYi.normalTitle" = "Cancelar";
